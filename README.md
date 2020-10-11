@@ -3,7 +3,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Commmon Commands - Sahil Rajput
 
 `nd` - To run dev server i.e., `npm run dev` or `yarn dev` (`next dev`)
+
 `ns` - To start produciton server via `npm start`  or `yarn start` (`next start`).
+
 `nr build` - To build produciton build via `npm  run build` or `yarn ` (`next build`) 
 
 ### Other Details
