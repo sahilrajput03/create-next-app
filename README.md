@@ -2,7 +2,7 @@
 
 [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app (vercel/next.js/tree/canary/packages/create-next-app)`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Get **huge collection** of **nextjs premade projects** @ [vercel/next.js/tree/canary/examples](https://github.com/vercel/next.js/tree/canary/examples)
+Get **huge collection** of **nextjs premade projects** @ [vercel/next.js/tree/canary/examples](https://github.com/vercel/next.js/tree/canary/examples) , [expo example](https://github.com/vercel/next.js/tree/canary/examples/with-expo-typescript).
 
 ```bash
 # To create your own starter nextjs app, use either of below commands -
