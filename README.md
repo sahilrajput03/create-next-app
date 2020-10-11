@@ -25,12 +25,12 @@ Now, you can browse your server(with **webpack-fast-refresh enabled**) at [http:
 
 ##### Tip: You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-- [Next.js Documentation](https://nextjs.org/docs)
+- [Next.js Docs](https://nextjs.org/docs)
 
-- [Getting Started](https://nextjs.org/docs/getting-started)
+- [Getting Started - Next.js Docs](https://nextjs.org/docs/getting-started)
 
-- [Learn Next.js](https://nextjs.org/learn)
+- [Learn Next.js - Next.js Docs](https://nextjs.org/learn)
 
-- [Static Html Export - Article in Documentation](https://nextjs.org/docs/advanced-features/static-html-export)
+- [Static Html Export - Article - Next.js Docs](https://nextjs.org/docs/advanced-features/static-html-export)
 - [Deploy your Next.js app to Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) (from the creators of Next.js)
-- [Next.js deployment documentation](https://nextjs.org/docs/deployment) - Nextjs Deployment Documentation
+- [Next.js deployment documentation - Next.js Docs](https://nextjs.org/docs/deployment) - Nextjs Deployment Documentation
