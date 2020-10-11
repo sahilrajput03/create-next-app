@@ -1,10 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+[Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app (vercel/next.js/tree/canary/packages/create-next-app)`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-To create your own starter nextjs app - 
+```bash
+# To create your own starter nextjs app, use either of below commands -
+npx create-next-app
+# or
+yarn create next-app
+```
 
 # Commmon Commands - Sahil Rajput
 
 `nd` - To run dev server i.e., `npm run dev` or `yarn dev` (`next dev`)
+
+Now, you can browse your server(with **webpack-fast-refresh enabled**) at [http://localhost:3000](http://localhost:3000) 
 
 `ns` - To serve produciton build via `npm start`  or `yarn start` (`next start`).  (Note: Build the production build first.)
 
@@ -16,21 +23,14 @@ To create your own starter nextjs app -
 
 ## Other Details
 
-Browse - http://localhost:3000](http://localhost:3000) 
-
 ##### Tip: You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
 - [Next.js Documentation](https://nextjs.org/docs)
 
-- [[Getting Started](https://nextjs.org/docs/getting-started)](https://nextjs.org/docs/getting-started)
+- [Getting Started](https://nextjs.org/docs/getting-started)
 
 - [Learn Next.js](https://nextjs.org/learn)
 
 - [Static Html Export - Article in Documentation](https://nextjs.org/docs/advanced-features/static-html-export)
-
-
-## Deploy on Vercel
-
-- The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-- Nextjs Deployment Documentation - [Next.js deployment documentation](https://nextjs.org/docs/deployment)
+- [Deploy your Next.js app to Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) (from the creators of Next.js)
+- [Next.js deployment documentation](https://nextjs.org/docs/deployment) - Nextjs Deployment Documentation
