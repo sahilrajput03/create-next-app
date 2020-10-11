@@ -8,6 +8,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 `nr build` - To build produciton build via `npm  run build` or `yarn ` (`next build`) 
 
+`nr build:export` - To build a static build of the app in `out` directory.  (`next build && next export`)
+
+### [Getting Started](https://nextjs.org/docs/getting-started)
+
 #### Other Details
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
