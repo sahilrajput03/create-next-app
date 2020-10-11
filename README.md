@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 `nd` - To run dev server i.e., `npm run dev` or `yarn dev` (`next dev`)
 
-`ns` - To serve produciton build via `npm start`  or `yarn start` (`next start`). *(Build the production build before executing ns).
+`ns` - To serve produciton build via `npm start`  or `yarn start` (`next start`).  (Note: Build the production build first.)
 
 `nr build` - To build produciton build via `npm  run build` or `yarn ` (`next build`) 
 
