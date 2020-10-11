@@ -6,15 +6,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 `ns` - To serve produciton build via `npm start`  or `yarn start` (`next start`).  (Note: Build the production build first.)
 
-`nr build` - To build produciton build via `npm  run build` or `yarn ` (`next build`) 
+`nr build` - To make a produciton build via `npm  run build` or `yarn ` (`next build`) 
 
-`nr build:export` - To build a static build of the app in `out` directory.  (`next build && next export`)
+`nr build:export` - To make a static build of the app in `out` directory.  (`next build && next export`)
 
 ### [Getting Started](https://nextjs.org/docs/getting-started)
 
 #### Other Details
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+i
+Open http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
