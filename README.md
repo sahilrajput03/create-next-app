@@ -8,7 +8,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 `nr build` - To build produciton build via `npm  run build` or `yarn ` (`next build`) 
 
-### Other Details
+#### Other Details
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
