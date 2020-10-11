@@ -13,7 +13,7 @@ yarn create next-app
 
 Now, you can browse your server(with **webpack-fast-refresh enabled**) at [http://localhost:3000](http://localhost:3000) 
 
-`ns` - To serve produciton build via `npm start`  or `yarn start` (`next start`).  (Note: Build the production build first.)
+`ns` - To serve producton build via `npm start`  or `yarn start` (`next start`).  (Note: Build the production build first.)
 
 `nr build` - To make a produciton build via `npm  run build` or `yarn ` (`next build`) 
 
