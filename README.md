@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Commmon Commands - Sahil Rajput
+# Commmon Commands - Sahil Rajput
 
 `nd` - To run dev server i.e., `npm run dev` or `yarn dev` (`next dev`)
 
