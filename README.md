@@ -40,6 +40,7 @@ Now, you can browse your server(with **webpack-fast-refresh enabled**) at [http:
 
 - [Next.js Docs](https://nextjs.org/docs)
 - [Next.js - Getting Started](https://nextjs.org/docs/getting-started), [#Manual Setup](https://nextjs.org/docs#manual-setup)
+- [Basic Features - Pages](https://nextjs.org/docs/basic-features/pages)
 - [Built-In CSS support - Docs](https://nextjs.org/docs/basic-features/built-in-css-support)
 - [Getting Started - Next.js Docs](https://nextjs.org/docs/getting-started)
 - [Learn Next.js - Next.js Docs](https://nextjs.org/learn)
