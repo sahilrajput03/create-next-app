@@ -18,8 +18,6 @@ npx create-next-app --example api-routes api-router-app
 npx create-next-app --example with-expo-typescript with-expo-typescript-app
 ```
 
-- Create Next App Cli - [Docs](https://nextjs.org/docs/api-reference/create-next-app)
-
 # Commmon Commands - Sahil Rajput
 
 `nd` - To run dev server i.e., `npm run dev` or `yarn dev` (`next dev`)
