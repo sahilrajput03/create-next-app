@@ -2,14 +2,21 @@
 
 [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app (vercel/next.js/tree/canary/packages/create-next-app)`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Get **huge collection** of **nextjs premade projects** @ [vercel/next.js/tree/canary/examples](https://github.com/vercel/next.js/tree/canary/examples) , [expo example](https://github.com/vercel/next.js/tree/canary/examples/with-expo-typescript).
+Access complete collection of example nextjs projects @ [vercel/next.js/tree/canary/examples](https://github.com/vercel/next.js/tree/canary/examples) , [expo typescript example for react-native](https://github.com/vercel/next.js/tree/canary/examples/with-expo-typescript). You can create a nextjs app from those examples by simply following below command -
 
 ```bash
-# To create your own starter nextjs app, use either of below commands -
-npx create-next-app
-# or
-yarn create next-app
+# For yarn users-
+yarn create next-app my-next-app # Where my-next-app would be name of project. -OR- use below
+yarn create next-app --example api-routes api-router-app
+yarn create next-app --example with-expo-typescript with-expo-typescript-app
+
+# For npm users-
+npx create-next-app my-next-app # Default starterd, though this will use yarn by default to install app. LOL 🍉🍉
+npx create-next-app --example api-routes api-router-app
+npx create-next-app --example with-expo-typescript with-expo-typescript-app
 ```
+
+- Create Next App Cli - [Docs](https://nextjs.org/docs/api-reference/create-next-app)
 
 # Commmon Commands - Sahil Rajput
 
@@ -30,11 +37,13 @@ Now, you can browse your server(with **webpack-fast-refresh enabled**) at [http:
 ##### Tip: You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
 - [Next.js Docs](https://nextjs.org/docs)
-
 - [Getting Started - Next.js Docs](https://nextjs.org/docs/getting-started)
-
 - [Learn Next.js - Next.js Docs](https://nextjs.org/learn)
-
 - [Static Html Export - Article - Next.js Docs](https://nextjs.org/docs/advanced-features/static-html-export)
 - [Deploy your Next.js app to Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) (from the creators of Next.js)
 - [Next.js deployment documentation - Next.js Docs](https://nextjs.org/docs/deployment) - Nextjs Deployment Documentation
+
+## next cli
+
+- next -h
+- 
