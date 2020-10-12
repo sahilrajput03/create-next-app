@@ -43,7 +43,6 @@ Now, you can browse your server(with **webpack-fast-refresh enabled**) at [http:
 - [Basic Features - Pages](https://nextjs.org/docs/basic-features/pages)
 - [Routing - Dynamic Routes](https://nextjs.org/docs/routing/dynamic-routes)
 - [Built-In CSS support - Docs](https://nextjs.org/docs/basic-features/built-in-css-support)
-- [Getting Started - Next.js Docs](https://nextjs.org/docs/getting-started)
 - [Learn Next.js - Next.js Docs](https://nextjs.org/learn)
 - [Static Html Export - Article - Next.js Docs](https://nextjs.org/docs/advanced-features/static-html-export)
 - [Deploy your Next.js app to Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) (from the creators of Next.js)
