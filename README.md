@@ -50,6 +50,7 @@ Now, you can browse your server(with **webpack-fast-refresh enabled**) at [http:
 ## next cli - [Docs](https://nextjs.org/docs/api-reference/cli)
 
 ```bash
+$ next -h
 Usage
   $ next <command>
 
