@@ -1,9 +1,9 @@
 # [Next.js](https://nextjs.org/)
 
-- create-next-app - [Github](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), [Docs](https://nextjs.org/docs/api-reference/create-next-app)
-- Official Next.js examples - [vercel/next.js/tree/canary/examples](https://github.com/vercel/next.js/tree/canary/examples)
+- create-next-app - [Github](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), [Article in Docs](https://nextjs.org/docs/api-reference/create-next-app)
+- Official Next.js examples - [Github](https://github.com/vercel/next.js/tree/canary/examples)
 - Example : api-router - [Github](https://github.com/vercel/next.js/tree/canary/examples/api-routes), [Article in Docs](https://nextjs.org/docs/api-routes/introduction)
-- Example : with-expo-typescript - [expo typescript example for react-native](https://github.com/vercel/next.js/tree/canary/examples/with-expo-typescript). 
+- Example : with-expo-typescript - [Github](https://github.com/vercel/next.js/tree/canary/examples/with-expo-typescript). 
 - To create a `nextjs ready apps`, follow below examples commands - 
 
 ```bash
