@@ -39,7 +39,7 @@ Now, you can browse your server(with **webpack-fast-refresh enabled**) at [http:
 ##### Tip: You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
 - [Next.js Docs](https://nextjs.org/docs)
-- [Next.js Manual Setup](https://nextjs.org/docs#manual-setup)
+- [Next.js - Getting Started](https://nextjs.org/docs/getting-started), [#Manual Setup](https://nextjs.org/docs#manual-setup)
 - [Built-In CSS support - Docs](https://nextjs.org/docs/basic-features/built-in-css-support)
 - [Getting Started - Next.js Docs](https://nextjs.org/docs/getting-started)
 - [Learn Next.js - Next.js Docs](https://nextjs.org/learn)
