@@ -1,17 +1,19 @@
-# Info
+# [Next.js](https://nextjs.org/)
 
-[Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app (vercel/next.js/tree/canary/packages/create-next-app)`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-Access complete collection of example nextjs projects @ [vercel/next.js/tree/canary/examples](https://github.com/vercel/next.js/tree/canary/examples) , [expo typescript example for react-native](https://github.com/vercel/next.js/tree/canary/examples/with-expo-typescript). You can create a nextjs app from those examples by simply following below command -
+- create-next-app - [Github](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), [Docs](https://nextjs.org/docs/api-reference/create-next-app)
+- Official Next.js examples - [vercel/next.js/tree/canary/examples](https://github.com/vercel/next.js/tree/canary/examples)
+- Example : api-router - [Github](https://github.com/vercel/next.js/tree/canary/examples/api-routes), [Article in Docs](https://nextjs.org/docs/api-routes/introduction)
+- Example : with-expo-typescript - [expo typescript example for react-native](https://github.com/vercel/next.js/tree/canary/examples/with-expo-typescript). 
+- To create a `nextjs ready apps`, follow below examples commands - 
 
 ```bash
 # For yarn users-
-yarn create next-app my-next-app # Where my-next-app would be name of project. -OR- use below
+yarn create next-app my-next-app # Where my-next-app would be name of project.
 yarn create next-app --example api-routes api-router-app
 yarn create next-app --example with-expo-typescript with-expo-typescript-app
 
 # For npm users-
-npx create-next-app my-next-app # Default starterd, though this will use yarn by default to install app. LOL 🍉🍉
+npx create-next-app my-next-app # It uses yarn by default to install dependencies. LOL 🍉
 npx create-next-app --example api-routes api-router-app
 npx create-next-app --example with-expo-typescript with-expo-typescript-app
 ```
@@ -37,13 +39,28 @@ Now, you can browse your server(with **webpack-fast-refresh enabled**) at [http:
 ##### Tip: You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
 - [Next.js Docs](https://nextjs.org/docs)
+- [Next.js Manual Setup](https://nextjs.org/docs#manual-setup)
+- [Built-In CSS support - Docs](https://nextjs.org/docs/basic-features/built-in-css-support)
 - [Getting Started - Next.js Docs](https://nextjs.org/docs/getting-started)
 - [Learn Next.js - Next.js Docs](https://nextjs.org/learn)
 - [Static Html Export - Article - Next.js Docs](https://nextjs.org/docs/advanced-features/static-html-export)
 - [Deploy your Next.js app to Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) (from the creators of Next.js)
 - [Next.js deployment documentation - Next.js Docs](https://nextjs.org/docs/deployment) - Nextjs Deployment Documentation
 
-## next cli
+## next cli - [Docs](https://nextjs.org/docs/api-reference/cli)
 
-- next -h
-- 
+```bash
+Usage
+  $ next <command>
+
+Available commands
+  build, start, export, dev, telemetry
+
+Options
+  --version, -v   Version number
+  --help, -h      Displays this message
+
+For more information run a command with the --help flag
+  $ next build --help
+```
+
